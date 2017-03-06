@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12415" started-at="2017-03-06T09:44:23Z" finished-at="2017-03-06T09:44:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12415" started-at="2017-03-06T09:44:23Z" finished-at="2017-03-06T09:44:36Z">
+      <class name="com.test.opertion.MainTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.opertion.MainTest@cb644e]" name="setup" is-config="true" duration-ms="8079" started-at="2017-03-06T17:44:23Z" finished-at="2017-03-06T17:44:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.test.opertion.MainTest@cb644e]" name="test" duration-ms="4324" started-at="2017-03-06T17:44:31Z" finished-at="2017-03-06T17:44:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:com.test.opertion.MainTest@cb644e]" name="finish" is-config="true" duration-ms="0" started-at="2017-03-06T17:44:36Z" finished-at="2017-03-06T17:44:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.test.opertion.MainTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
